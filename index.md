@@ -35,3 +35,7 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+
+<iframe src="http://corax.uni.me/foro/index.html" style="border:5px dotted SkyBlue" width="1000" height="1000" name="targetForo"></iframe>
+<a href="http://www.w3schools.com" target="targetForo">Foro</a>
