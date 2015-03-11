@@ -1,0 +1,1 @@
+<?php mysql_connect("mysql.nixiweb.com", "u474286048_10335", "103352015") or die(mysql_error());  mysql_select_db("u474286048_foro") or die(mysql_error()); echo 'Connected successfully'; ?>
